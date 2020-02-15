@@ -1,4 +1,4 @@
-## Desafio Sinergia
+## Starter Rocketseat - React
 
 Projeto em React do curso Starter Rocketseat
 
